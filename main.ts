@@ -1,4 +1,4 @@
-// Segmento de código para el reconocimiento de las señales de tráfico. Inicia al presionarse el botón A de la tarjeta micro:bit. 
+// Segmento de código para el reconocimiento de las señales de tráfico. Inicia al presionarse el botón A de la tarjeta micro:bit.
 // 
 // Al ejecutarse, inicializa la cámara y la configura, así como determina el valor 0 para la variable "Número". Además, fija el ángulo del servo-motor a 90° y enciende el motor DC con una potencia del 25%.
 input.onButtonPressed(Button.A, function () {
@@ -9,7 +9,7 @@ input.onButtonPressed(Button.A, function () {
     Número = 0
     neZha.setServoAngel(neZha.ServoTypeList._360, neZha.ServoList.S1, 90)
     neZha.setMotorSpeed(neZha.MotorList.M1, 25)
-    // Bucle que confirma la igualdad entre la dos variables para ejecutar el código.
+    // Bucle que confirma la igualdad entre las dos variables para ejecutar el código.
     while (Número == Número) {
         // Realiza una pausa de 0.1 segundos antes de cada repetición.
         basic.pause(100)
