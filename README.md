@@ -68,13 +68,15 @@ Código en JavaScript:
 ![Captura de pantalla 2024-07-01 000134](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/40aaf292-d0b0-4360-b6c9-9a2fae9806c3)
 ![0](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/a9060da3-d755-426d-9e8c-71bf26ff1258)
 Imagen 3. Diagrama de flujo.
-![0](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/a9060da3-d755-426d-9e8c-71bf26ff1258)
+
+![Captura de pantalla 2024-07-01 000134](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/2cf3ec96-cb89-4e6a-802e-85a30e660b34)
 
 # _**5. Videos de Rendimiento**_
 
 Se realizó un video para demostrar el rendimiento del vehículo durante el
 desplazamiento en pista. Puede accederse a él a través del enlace:
 https://youtu.be/ANmnAtssnoo?si=y03vp8YUODDqMHdq
+
 ![Captura de pantalla 2024-07-01 000134](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/de835020-0acb-4733-93bf-3a969b802746)
 # _**Solución del reto**_
 
@@ -84,6 +86,7 @@ Para solucionar el reto planteado en la categoría de Futuros Ingenieros, se rea
 Se diseñó un programa mediante el software Microsoft MakeCode for micro:bit, para que el vehículo se desplace con una trayectoria lineal mientras detecte la barrera interna a determinada distancia con los sensores de ultrasonido, y una vez que deje de detectarla, gire para desplazarse por la pista. De igual forma, se realizó un código que permita al vehículo reconocer las señales de tráfico situadas en la pista, y así esquivarlas por el lado izquierdo o derecho según el color de la señal. Finalmente, se utilizó el sensor de ultrasonido fronta para que en caso de detectar la barrera frente a él, retroceda y ejecute un giro con el motor DC y servo-motor según sea necesario, para evitar chocar con ella.
 
 El código diseñado en Microsoft MakeCode for micro:bit, fue compilado en el programa y cargado a la tarjeta micro:bit mediante un cable de conexión.
+
 ![Captura de pantalla 2024-07-01 000134](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/502269ef-9b0c-460f-a320-e3765f0b8920)
 
 **Translation:**
