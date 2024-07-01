@@ -51,11 +51,13 @@ Imagen 2. Código en bloques.
 ![Captura de pantalla 2024-07-01 000134](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/2cf3ec96-cb89-4e6a-802e-85a30e660b34)
 
 Código en Python:
+
 ![Captura de pantalla 2024-07-01 001617](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/7c59db39-5bfa-410c-8177-030d57503c98)
 ![Captura de pantalla 2024-07-01 001656](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/40232292-fe3a-4c78-b385-ffa14c04e0d6)
 ![Captura de pantalla 2024-07-01 001738](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/d74938f3-f9ac-4bd5-b467-e22e419a1b3a)
 ![Captura de pantalla 2024-07-01 001751](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/7264c8cd-01ba-4cfa-b591-e2cf75e26da4)
 ![Captura de pantalla 2024-07-01 000134](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/40aaf292-d0b0-4360-b6c9-9a2fae9806c3)
+
 
 Código en JavaScript:
 
@@ -67,6 +69,7 @@ Código en JavaScript:
 ![0](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/a9060da3-d755-426d-9e8c-71bf26ff1258)
 Imagen 3. Diagrama de flujo.
 ![0](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/a9060da3-d755-426d-9e8c-71bf26ff1258)
+
 # _**5. Videos de Rendimiento**_
 
 Se realizó un video para demostrar el rendimiento del vehículo durante el
