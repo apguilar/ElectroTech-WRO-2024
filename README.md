@@ -67,6 +67,7 @@ Código en JavaScript:
 ![Captura de pantalla 2024-07-01 002307](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/93c8d17f-9344-4083-9673-fbcccb3db46f)
 ![Captura de pantalla 2024-07-01 000134](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/40aaf292-d0b0-4360-b6c9-9a2fae9806c3)
 ![0](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/a9060da3-d755-426d-9e8c-71bf26ff1258)
+
 Imagen 3. Diagrama de flujo.
 
 ![Captura de pantalla 2024-07-01 000134](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/2cf3ec96-cb89-4e6a-802e-85a30e660b34)
