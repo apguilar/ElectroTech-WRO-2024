@@ -1,3 +1,7 @@
+La categoría de “Futuros Ingenieros” presenta un desafío que consiste en diseñar
+un vehículo robótico capaz de conducir de manera autónoma en un circuito que
+cambia aleatoriamente en cada ronda de la competencia.
+
      Para solucionar el reto planteado en la categoría de Futuros Ingenieros, se realizó un vehículo robótico con el Nezha Inventor's Kit for micro:bit. Se utilizaron vigas, ejes, poleas, un engranaje, dos tornillos sin fin, un motor DC, un servo-motor, tres sensores de ultrasonido, una cámara Smart AI Lens de ELECFREAKS, y el módulo Nezha.
 
      Se diseñó un programa mediante el software Microsoft MakeCode for micro:bit, para que el vehículo se desplace con una trayectoria lineal mientras detecte la barrera interna a determinada distancia con los sensores de ultrasonido, y una vez que deje de detectarla, gire para desplazarse por la pista. De igual forma, se realizó un código que permita al vehículo reconocer las señales de tráfico situadas en la pista, y así esquivarlas por el lado izquierdo o derecho según el color de la señal. Finalmente, se utilizó el sensor de ultrasonido fronta para que en caso de detectar la barrera frente a él, retroceda y ejecute un giro con el motor DC y servo-motor según sea necesario, para evitar chocar con ella.
