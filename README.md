@@ -56,7 +56,9 @@ Código en Python:
 ![Captura de pantalla 2024-07-01 001738](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/d74938f3-f9ac-4bd5-b467-e22e419a1b3a)
 ![Captura de pantalla 2024-07-01 001751](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/7264c8cd-01ba-4cfa-b591-e2cf75e26da4)
 ![Captura de pantalla 2024-07-01 000134](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/40aaf292-d0b0-4360-b6c9-9a2fae9806c3)
+
 Código en JavaScript:
+
 ![Captura de pantalla 2024-07-01 002214](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/8d3d0b43-715e-49e4-98bf-d9133b6b3783)
 ![Captura de pantalla 2024-07-01 002236](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/7a3461eb-7784-4006-bd46-43782696a2f4)
 ![Captura de pantalla 2024-07-01 002256](https://github.com/apguilar/ElectroTech-WRO-2024/assets/174073328/e17d2824-d0f7-493b-bee0-19544b097739)
